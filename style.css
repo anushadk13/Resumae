@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.title{
+    text-align: center;
+}
+
+i{
+    margin-left: 10px;
+}
+
+h4{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.education{
+    margin-top: 30px;
+}
+
+.heading{
+    font-size: 25px;
+    font-weight: 900;
+    margin-left: 300px;
+}
+
+.line-1 {
+    height: 1.5px;
+    background: black;
+    margin-left: 300px;
+    margin-right: 200px;
+  }
+  
+  .info{
+    display: flex;
+    margin-left: 300px;
+  }
+
+  .left{
+    margin-top: 10px;
+  }
+
+ 
+
+  .right{
+    margin-top: 10px;
+    margin-left: 800px;
+  }
+
+  .relevant{
+    margin-top: 30px;
+  }
+
+  .list{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 10px;
+  }
+
+  .space{
+    margin-right: 30px;
+  }
+
+  .experience {
+    margin-top: 20px;
+  }
+
+  .rights{
+    margin-top: 10px;
+    margin-left: 900px;
+  }
+
+ .infoo{
+    margin-top: 10px;
+    margin-left: 350px;
+ }
+
+ .company2{
+    margin-top: 20px;
+ }
+
+ .Projects{
+    margin-top: 20px;
+ }
+
+ .technicalskills{
+    margin-top: 20px;
+ }
+
+ .listing{
+    margin-left: 300px;
+    margin-top: 10px;
+    font-size: 20px;
+ }
+
+ .extracurricular{
+    margin-top: 10px;
+ }
